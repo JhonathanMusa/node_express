@@ -8,5 +8,5 @@ app.use(express.urlencoded({ extended: false }));
 app.use(require("./routes/index"));
 
 app.listen(PORT, () => {
-  console.log("Server running on port ", PORT);
+  console.log(`Server running on port ${PORT}`);
 });
