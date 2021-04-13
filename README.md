@@ -1,2 +1,2 @@
 # node_express
-Node and express pratice
+Server built with Nodejs and Express 
